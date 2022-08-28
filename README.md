@@ -11,6 +11,7 @@
   /*           	                                                                       */ 
   /* ********************************************************************************* */
 ```
-
-<h1 align="center"># 1337 Pool</h1>
-⚠️⚠️ This Code isn't Well Normed ⚠️⚠️
+<div aligh="center">
+  <h1># 1337 Pool</h1>
+  <h3>⚠️⚠️ This Code isn't Well Normed ⚠️⚠️</h3>
+</div>
