@@ -14,5 +14,5 @@
 
 
   <h1 align="center"><a href="[1337.ma](https://www.1337.ma/)">1337</a> Pool</h1>
-  <p style="bold" align="center">Project Developed 2022 july the 18th at 1337 Benguerir</>
+  <p style="bold" align="center">Project Developed on july 18th, 2022 at 1337 Benguerir</p>
   <h3 align="center">⚠️⚠️ The Project isn't Well Normed ⚠️⚠️</h3>
