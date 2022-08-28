@@ -1,2 +1,2 @@
-<div style="margin: auto;"># 1337 Pool</div>
+# 1337 Pool
 ⚠️⚠️ This Code isn't Well Normed ⚠️⚠️
